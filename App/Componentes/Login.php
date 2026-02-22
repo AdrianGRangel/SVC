@@ -2,14 +2,14 @@
 <html lang="es">
     <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href"style.css">
+        <link rel="stylesheet" href="style.css">
         <title>Login - Bienvenido</title>
     </head>
     <body>
         <div class="login-card">
             <p class="subtitle">Inicia sesión en tu cuenta</p>
             <button class="google-btn">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google"">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" alt="Google">
                 Continuar con Google
             </button>
 
@@ -37,4 +37,5 @@
             ?>
         </div>
     </body>
+
 </html>
